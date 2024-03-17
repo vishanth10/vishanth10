@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I can cook for 200+ people
 
 
-##ABOUT ME
+## ABOUT ME
 SDE & Data Scientist 
 
 🌍 Based in Los Angeles, CA
