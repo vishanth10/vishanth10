@@ -9,13 +9,13 @@
 - ⚡ Fun fact: I can cook for 200+ people
 
 
-## ABOUT ME
+### ABOUT ME
 SDE & Data Scientist 
 
-🌍 Based in Los Angeles, CA
-🔧 Specializing in R, Python, JavaScript, and Cloud Technologies
-📚 Currently learning advanced ML models and AI applications
-📈 Passionate about data-driven decision-making and predictive analytics
+- 🌍 Based in Los Angeles, CA
+- 🔧 Specializing in R, Python, JavaScript, and Cloud Technologies
+- 📚 Currently learning advanced ML models and AI applications
+- 📈 Passionate about data-driven decision-making and predictive analytics
 
 ## Tech Stack
 
