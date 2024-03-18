@@ -35,13 +35,13 @@ SDE & Data Scientist
 
 ### Connect
 
-[**![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](Your_LinkedIn_URL)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](Your_LinkedIn_URL)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/vishanth10)
-[![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)](Your_Tableau_Profile_URL)**
+[![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)](Your_Tableau_Profile_URL)
 
 ![Vishanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishanth10&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishanth10)](https://github.com/anuraghazra/github-readme-stats)
 
-- _**Open to collaboration on ML/AI projects! Looking for SUMMER INTERNSHIP 2024/ FTE from DECEMBER 2024**_
+ _**Open to collaboration on ML/AI projects! Looking for SUMMER INTERNSHIP 2024/ FTE from DECEMBER 2024**_
 
 
