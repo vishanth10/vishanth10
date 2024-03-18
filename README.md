@@ -35,6 +35,7 @@ SDE & Data Scientist
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](Your_LinkedIn_URL)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/vishanth10)
+[![Website Badge](https://img.shields.io/badge/-Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishanth10.github.io/vishanth/)
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)](Your_Tableau_Profile_URL)
 
 ![Vishanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishanth10&show_icons=true)
