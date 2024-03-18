@@ -42,7 +42,7 @@ SDE & Data Scientist
 ![Vishanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishanth10&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishanth10)](https://github.com/anuraghazra/github-readme-stats)
 
-Open to collaboration on ML/AI projects! Looking for SUMMER INTERNSHIP 2024/ FTE from DECEMBER 2024
+_**Open to collaboration on ML/AI projects! Looking for SUMMER INTERNSHIP 2024/ FTE from DECEMBER 2024**_
 --
 
 
