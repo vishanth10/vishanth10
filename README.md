@@ -28,21 +28,16 @@ SDE & Data Scientist
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-
-
-## Projects
-
-- **Image Reognition**
-- **Creating Library on Statistical Resampling techniques**
-- **LLM Recommender Engine**
-- **Image Recognition Defect Detection**
 
 ## Connect
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](Your_LinkedIn_URL)
+[**![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](Your_LinkedIn_URL)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/vishanth10)
-[![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)](Your_Tableau_Profile_URL)
+[![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)](Your_Tableau_Profile_URL)**
 
 ![Vishanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishanth10&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishanth10)](https://github.com/anuraghazra/github-readme-stats)
