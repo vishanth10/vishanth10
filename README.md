@@ -33,7 +33,7 @@ SDE & Data Scientist
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
-## Connect
+### Connect
 
 [**![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](Your_LinkedIn_URL)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/vishanth10)
@@ -42,7 +42,6 @@ SDE & Data Scientist
 ![Vishanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishanth10&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishanth10)](https://github.com/anuraghazra/github-readme-stats)
 
-_**Open to collaboration on ML/AI projects! Looking for SUMMER INTERNSHIP 2024/ FTE from DECEMBER 2024**_
---
+- _**Open to collaboration on ML/AI projects! Looking for SUMMER INTERNSHIP 2024/ FTE from DECEMBER 2024**_
 
 
