@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Vishanth Hari Raj 👋
+### I'm Vishanth Hari Raj
 
 
 - 🔭 I’m currently working on Resamp Library
