@@ -15,7 +15,10 @@ SDE & Data Scientist
 - 📚 Currently learning advanced ML models and AI applications
 - 📈 Passionate about data-driven decision-making and predictive analytics
 
+ _**Open to collaboration on ML/AI projects! Looking for SUMMER INTERNSHIP 2024/ FTE from DECEMBER 2024**_
+
 ## Tech Stack
+
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,7 +32,7 @@ SDE & Data Scientist
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
+ <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
 
 ## Connect
 
@@ -38,9 +41,8 @@ SDE & Data Scientist
 [![Website Badge](https://img.shields.io/badge/-Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishanth10.github.io/vishanth/)
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)](Your_Tableau_Profile_URL)
 
-![Vishanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishanth10&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishanth10)](https://github.com/anuraghazra/github-readme-stats)
 
- _**Open to collaboration on ML/AI projects! Looking for SUMMER INTERNSHIP 2024/ FTE from DECEMBER 2024**_
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishanth10&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
