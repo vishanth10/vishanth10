@@ -42,7 +42,7 @@ SDE & Data Scientist
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)](Your_Tableau_Profile_URL)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishanth10&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishanth10&layout=donut-vertical)]
 
 
 
