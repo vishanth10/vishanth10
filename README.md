@@ -2,8 +2,8 @@
 
 ### I'm Vishanth Hari Raj
 
-- 🔭 I’m currently working at traversaal ai
-- 🌱 I’m currently learning LLM, NLP, 
+- 🔭 I’m interested in exploring new things
+- 🌱 I’m currently learning LLM, NLP
 - 👯 I’m looking to collaborate on ML project to expand my domain knowledge. 
 - ⚡ Fun fact: I can cook for 200+ people
 
