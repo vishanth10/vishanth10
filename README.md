@@ -15,7 +15,8 @@ SDE & Data Scientist
 - 📚 Currently learning advanced ML models and AI applications
 - 📈 Passionate about data-driven decision-making and predictive analytics
 
- _**Open to collaboration on ML/AI projects! Looking for SUMMER INTERNSHIP 2024/ FTE from DECEMBER 2024**_
+ _**Open to collaboration on ML/AI projects! 
+ Looking for FTE from DECEMBER 2024**_
 
 ## Tech Stack
 
